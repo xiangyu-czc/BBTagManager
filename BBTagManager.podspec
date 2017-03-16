@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BBTagManager"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "hello this is tag manager  of BBTagManager. is vevery beatiful"
   s.description  = "hello this is tag manager  of BBTagManager. is vevery beatifhello this is tag manager  of BBTagManager. is vevery beatifhello this is tag manager  of BBTagManager. is vevery beatifhello this is tag manager  of BBTagManager. is vevery beatif"
   s.homepage     = "https://github.com/xiangyu-czc/BBTagManager"
