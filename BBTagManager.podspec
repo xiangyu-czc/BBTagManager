@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.author             = { "项羽" => "lizhiwei@newborn-town.com" }
   s.source       = { :git => "https://github.com/xiangyu-czc/BBTagManager.git", :tag => "#{s.version}" }
   s.source_files  = "BBTagManager/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+#s.exclude_files = "Classes/Exclude"
 
 end
